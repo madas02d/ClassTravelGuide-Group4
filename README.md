@@ -5,3 +5,5 @@
  ## Destinations
 
   (Entries will go here in alphabetical order by destination name)
+
+Dubai
