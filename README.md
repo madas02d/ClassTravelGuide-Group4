@@ -13,3 +13,12 @@ Lisbon is one of the oldest cities in the world[5] and the second-oldest Europea
 
 New York:
 New York, often called New York City[b] or simply NYC, is the most populous city in the United States, located at the southern tip of New York State on one of the world's largest natural harbors. The city comprises five boroughs, each of which is coextensive with a respective county. New York is a global center of finance[10] and commerce, culture and technology,[11] entertainment and media, academics and scientific output,[12] and the arts and fashion, and, as home to the headquarters of the United Nations, is an important center for international diplomacy.[13][14][15][16][17] New York City is the center of the world's principal metropolitan economy.[18]
+
+### Destination Name
+
+  - **Location**: New York, USA.
+  - **Why Visit**: is a good city to Visit
+  - **Best Time to Visit**: Sommer
+  - **Must-See Attractions**: Hollwood mountnent
+  - **Travel Tips**: Buy all your adapters, SIM cards, and currency at home.
+  - **Contributor**: Jean Damascene
